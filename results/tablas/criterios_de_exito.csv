@@ -1,0 +1,4 @@
+﻿,Criterio,Meta,Resultado,Cumple
+0,R² en prueba (ln precio),"≥ 0,60",0.754,Sí
+1,Reducción del MAE frente al modelo base (ln precio),≥ 25 %,55.6 %,Sí
+2,Reducción del MAE frente al modelo base (precio),≥ 25 %,51.1 %,Sí
