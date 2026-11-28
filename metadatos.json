@@ -1,0 +1,1030 @@
+{
+ "columnas": [
+  "accommodates",
+  "bedrooms",
+  "banos",
+  "bano_compartido",
+  "minimum_nights",
+  "maximum_nights",
+  "number_of_reviews",
+  "number_of_reviews_ltm",
+  "reviews_per_month",
+  "review_scores_rating",
+  "review_scores_location",
+  "review_scores_value",
+  "sin_resenas",
+  "host_listings_count",
+  "calculated_host_listings_count",
+  "host_is_superhost",
+  "host_identity_verified",
+  "instant_bookable",
+  "antiguedad_anfitrion",
+  "n_amenities",
+  "dist_centro_km",
+  "latitude",
+  "longitude",
+  "room_type_Hotel room",
+  "room_type_Private room",
+  "room_type_Shared room",
+  "property_type_agr_Entire home",
+  "property_type_agr_Entire rental unit",
+  "property_type_agr_Entire serviced apartment",
+  "property_type_agr_Entire townhouse",
+  "property_type_agr_Otros",
+  "property_type_agr_Private room in condo",
+  "property_type_agr_Private room in home",
+  "property_type_agr_Private room in rental unit",
+  "property_type_agr_Private room in townhouse",
+  "neighbourhood_cleansed_Barnet",
+  "neighbourhood_cleansed_Bexley",
+  "neighbourhood_cleansed_Brent",
+  "neighbourhood_cleansed_Bromley",
+  "neighbourhood_cleansed_Camden",
+  "neighbourhood_cleansed_City of London",
+  "neighbourhood_cleansed_Croydon",
+  "neighbourhood_cleansed_Ealing",
+  "neighbourhood_cleansed_Enfield",
+  "neighbourhood_cleansed_Greenwich",
+  "neighbourhood_cleansed_Hackney",
+  "neighbourhood_cleansed_Hammersmith and Fulham",
+  "neighbourhood_cleansed_Haringey",
+  "neighbourhood_cleansed_Harrow",
+  "neighbourhood_cleansed_Havering",
+  "neighbourhood_cleansed_Hillingdon",
+  "neighbourhood_cleansed_Hounslow",
+  "neighbourhood_cleansed_Islington",
+  "neighbourhood_cleansed_Kensington and Chelsea",
+  "neighbourhood_cleansed_Kingston upon Thames",
+  "neighbourhood_cleansed_Lambeth",
+  "neighbourhood_cleansed_Lewisham",
+  "neighbourhood_cleansed_Merton",
+  "neighbourhood_cleansed_Newham",
+  "neighbourhood_cleansed_Redbridge",
+  "neighbourhood_cleansed_Richmond upon Thames",
+  "neighbourhood_cleansed_Southwark",
+  "neighbourhood_cleansed_Sutton",
+  "neighbourhood_cleansed_Tower Hamlets",
+  "neighbourhood_cleansed_Waltham Forest",
+  "neighbourhood_cleansed_Wandsworth",
+  "neighbourhood_cleansed_Westminster"
+ ],
+ "defectos": {
+  "accommodates": 2.0,
+  "bedrooms": 1.0,
+  "banos": 1.0,
+  "bano_compartido": 0.0,
+  "minimum_nights": 2.0,
+  "maximum_nights": 365.0,
+  "number_of_reviews": 4.0,
+  "number_of_reviews_ltm": 0.0,
+  "reviews_per_month": 0.21,
+  "review_scores_rating": 4.82,
+  "review_scores_location": 4.86,
+  "review_scores_value": 4.75,
+  "sin_resenas": 0.0,
+  "host_listings_count": 1.0,
+  "calculated_host_listings_count": 1.0,
+  "host_is_superhost": 0.0,
+  "host_identity_verified": 1.0,
+  "instant_bookable": 0.0,
+  "antiguedad_anfitrion": 6.548939082819986,
+  "n_amenities": 21.0,
+  "dist_centro_km": 6.219696537684943,
+  "latitude": 51.51374,
+  "longitude": -0.125595
+ },
+ "tipos_alojamiento": [
+  "Entire home/apt",
+  "Hotel room",
+  "Private room",
+  "Shared room"
+ ],
+ "tipos_propiedad": [
+  "Entire condo",
+  "Entire home",
+  "Entire rental unit",
+  "Entire serviced apartment",
+  "Entire townhouse",
+  "Otros",
+  "Private room in condo",
+  "Private room in home",
+  "Private room in rental unit",
+  "Private room in townhouse"
+ ],
+ "barrios": {
+  "Barking and Dagenham": {
+   "lat": 51.54052,
+   "lon": 0.1204226996169431,
+   "dist_km": 17.430791824808296,
+   "precio_mediano": 60.0,
+   "anuncios": 432
+  },
+  "Barnet": {
+   "lat": 51.595909500000005,
+   "lon": -0.20554800021529196,
+   "dist_km": 11.620450644887942,
+   "precio_mediano": 80.0,
+   "anuncios": 1572
+  },
+  "Bexley": {
+   "lat": 51.469035000000005,
+   "lon": 0.15087533491780014,
+   "dist_km": 19.67679978210735,
+   "precio_mediano": 60.0,
+   "anuncios": 410
+  },
+  "Brent": {
+   "lat": 51.54467,
+   "lon": -0.22943,
+   "dist_km": 8.23643380179064,
+   "precio_mediano": 80.0,
+   "anuncios": 1947
+  },
+  "Bromley": {
+   "lat": 51.40657,
+   "lon": 0.00979,
+   "dist_km": 14.540789146416838,
+   "precio_mediano": 70.0,
+   "anuncios": 592
+  },
+  "Camden": {
+   "lat": 51.539433,
+   "lon": -0.13948,
+   "dist_km": 3.79323581529996,
+   "precio_mediano": 122.0,
+   "anuncios": 4645
+  },
+  "City of London": {
+   "lat": 51.51369860038947,
+   "lon": -0.08826,
+   "dist_km": 2.8686960227661724,
+   "precio_mediano": 196.0,
+   "anuncios": 421
+  },
+  "Croydon": {
+   "lat": 51.38329,
+   "lon": -0.09755,
+   "dist_km": 14.05548107549316,
+   "precio_mediano": 60.0,
+   "anuncios": 1065
+  },
+  "Ealing": {
+   "lat": 51.511044999999996,
+   "lon": -0.29660904903476937,
+   "dist_km": 11.763678747150148,
+   "precio_mediano": 70.0,
+   "anuncios": 1546
+  },
+  "Enfield": {
+   "lat": 51.635270000000006,
+   "lon": -0.08223,
+   "dist_km": 14.54486006599329,
+   "precio_mediano": 65.0,
+   "anuncios": 616
+  },
+  "Greenwich": {
+   "lat": 51.48437,
+   "lon": 0.04253,
+   "dist_km": 12.620711172298797,
+   "precio_mediano": 80.0,
+   "anuncios": 1492
+  },
+  "Hackney": {
+   "lat": 51.545769,
+   "lon": -0.07087,
+   "dist_km": 6.275692496606255,
+   "precio_mediano": 85.0,
+   "anuncios": 5137
+  },
+  "Hammersmith and Fulham": {
+   "lat": 51.48902,
+   "lon": -0.212405,
+   "dist_km": 6.406883542065705,
+   "precio_mediano": 110.0,
+   "anuncios": 2944
+  },
+  "Haringey": {
+   "lat": 51.585364999999996,
+   "lon": -0.102715,
+   "dist_km": 9.13290106997344,
+   "precio_mediano": 70.0,
+   "anuncios": 1848
+  },
+  "Harrow": {
+   "lat": 51.58825,
+   "lon": -0.33868,
+   "dist_km": 17.2507573554282,
+   "precio_mediano": 75.0,
+   "anuncios": 443
+  },
+  "Havering": {
+   "lat": 51.57337,
+   "lon": 0.19485,
+   "dist_km": 23.154895414966077,
+   "precio_mediano": 69.0,
+   "anuncios": 327
+  },
+  "Hillingdon": {
+   "lat": 51.51664,
+   "lon": -0.45513,
+   "dist_km": 23.064831671157997,
+   "precio_mediano": 68.0,
+   "anuncios": 713
+  },
+  "Hounslow": {
+   "lat": 51.47924,
+   "lon": -0.33357,
+   "dist_km": 14.789403674182584,
+   "precio_mediano": 79.0,
+   "anuncios": 1045
+  },
+  "Islington": {
+   "lat": 51.54437,
+   "lon": -0.10794000000000001,
+   "dist_km": 4.533092493435437,
+   "precio_mediano": 98.0,
+   "anuncios": 3744
+  },
+  "Kensington and Chelsea": {
+   "lat": 51.49522956284148,
+   "lon": -0.19075,
+   "dist_km": 4.663224248213049,
+   "precio_mediano": 180.0,
+   "anuncios": 4446
+  },
+  "Kingston upon Thames": {
+   "lat": 51.401945,
+   "lon": -0.292505,
+   "dist_km": 16.140765362310166,
+   "precio_mediano": 75.0,
+   "anuncios": 576
+  },
+  "Lambeth": {
+   "lat": 51.46457,
+   "lon": -0.118468,
+   "dist_km": 4.894793848189653,
+   "precio_mediano": 86.0,
+   "anuncios": 3697
+  },
+  "Lewisham": {
+   "lat": 51.46021350125717,
+   "lon": -0.03239,
+   "dist_km": 8.982408734261616,
+   "precio_mediano": 65.0,
+   "anuncios": 2007
+  },
+  "Merton": {
+   "lat": 51.4165,
+   "lon": -0.19824,
+   "dist_km": 11.161728070334377,
+   "precio_mediano": 85.0,
+   "anuncios": 1101
+  },
+  "Newham": {
+   "lat": 51.531018181771,
+   "lon": 0.01867,
+   "dist_km": 10.389399352635174,
+   "precio_mediano": 76.0,
+   "anuncios": 1677
+  },
+  "Redbridge": {
+   "lat": 51.57568,
+   "lon": 0.06839,
+   "dist_km": 15.383308395715074,
+   "precio_mediano": 62.0,
+   "anuncios": 667
+  },
+  "Richmond upon Thames": {
+   "lat": 51.454785,
+   "lon": -0.31304,
+   "dist_km": 14.525022235401554,
+   "precio_mediano": 100.0,
+   "anuncios": 1094
+  },
+  "Southwark": {
+   "lat": 51.491280530488496,
+   "lon": -0.08121,
+   "dist_km": 4.1543692709571,
+   "precio_mediano": 90.0,
+   "anuncios": 3769
+  },
+  "Sutton": {
+   "lat": 51.362705,
+   "lon": -0.19093635168009904,
+   "dist_km": 16.528003542661857,
+   "precio_mediano": 60.0,
+   "anuncios": 286
+  },
+  "Tower Hamlets": {
+   "lat": 51.51852,
+   "lon": -0.050355,
+   "dist_km": 5.705668927394395,
+   "precio_mediano": 85.0,
+   "anuncios": 5570
+  },
+  "Waltham Forest": {
+   "lat": 51.57475,
+   "lon": -0.0106,
+   "dist_km": 11.095569379644738,
+   "precio_mediano": 70.0,
+   "anuncios": 1317
+  },
+  "Wandsworth": {
+   "lat": 51.45905,
+   "lon": -0.17161,
+   "dist_km": 7.106710603004662,
+   "precio_mediano": 99.0,
+   "anuncios": 3425
+  },
+  "Westminster": {
+   "lat": 51.514968479923866,
+   "lon": -0.16351,
+   "dist_km": 2.8110893794431595,
+   "precio_mediano": 172.0,
+   "anuncios": 7497
+  }
+ },
+ "precio_mediano_tipo": {
+  "Entire home/apt": 145.0,
+  "Hotel room": 205.0,
+  "Private room": 50.0,
+  "Shared room": 39.0
+ },
+ "rango_precio_entrenamiento": [
+  9.289620361875084,
+  1065.7055524712218
+ ],
+ "cociente_q10": 0.6367737062569245,
+ "cociente_q90": 1.5616342502270242,
+ "metricas": {
+  "r2_ln": 0.7543622411236642,
+  "mae_precio": 41.38114908097841,
+  "rmse_precio": 82.47426573509372,
+  "mae_base": 84.65094755398854,
+  "anuncios_entrenamiento": 54454,
+  "anuncios_prueba": 13614
+ },
+ "version_sklearn": "1.9.1",
+ "comparables": {
+  "Barking and Dagenham|Entire home/apt": {
+   "n": 185,
+   "p10": 52.60000000000001,
+   "p50": 126.0,
+   "p90": 240.0
+  },
+  "Barking and Dagenham|Private room": {
+   "n": 242,
+   "p10": 23.1,
+   "p50": 40.5,
+   "p90": 90.0
+  },
+  "Barnet|Entire home/apt": {
+   "n": 830,
+   "p10": 60.0,
+   "p50": 125.0,
+   "p90": 290.0
+  },
+  "Barnet|Private room": {
+   "n": 725,
+   "p10": 25.0,
+   "p50": 45.0,
+   "p90": 101.60000000000002
+  },
+  "Bexley|Entire home/apt": {
+   "n": 173,
+   "p10": 60.0,
+   "p50": 120.0,
+   "p90": 240.20000000000022
+  },
+  "Bexley|Private room": {
+   "n": 234,
+   "p10": 25.0,
+   "p50": 40.5,
+   "p90": 78.80000000000007
+  },
+  "Brent|Entire home/apt": {
+   "n": 1074,
+   "p10": 61.0,
+   "p50": 126.0,
+   "p90": 300.0
+  },
+  "Brent|Private room": {
+   "n": 864,
+   "p10": 27.0,
+   "p50": 46.0,
+   "p90": 100.0
+  },
+  "Bromley|Entire home/apt": {
+   "n": 290,
+   "p10": 55.900000000000006,
+   "p50": 101.0,
+   "p90": 240.9000000000002
+  },
+  "Bromley|Private room": {
+   "n": 298,
+   "p10": 24.700000000000003,
+   "p50": 45.0,
+   "p90": 100.0
+  },
+  "Camden|Entire home/apt": {
+   "n": 3101,
+   "p10": 80.0,
+   "p50": 156.0,
+   "p90": 369.0
+  },
+  "Camden|Private room": {
+   "n": 1497,
+   "p10": 35.0,
+   "p50": 65.0,
+   "p90": 156.4000000000001
+  },
+  "Camden|Shared room": {
+   "n": 31,
+   "p10": 27.0,
+   "p50": 39.0,
+   "p90": 112.0
+  },
+  "City of London|Entire home/apt": {
+   "n": 371,
+   "p10": 110.0,
+   "p50": 200.0,
+   "p90": 510.0
+  },
+  "City of London|Private room": {
+   "n": 49,
+   "p10": 32.6,
+   "p50": 66.0,
+   "p90": 172.00000000000003
+  },
+  "Croydon|Entire home/apt": {
+   "n": 485,
+   "p10": 51.400000000000006,
+   "p50": 97.0,
+   "p90": 200.0
+  },
+  "Croydon|Private room": {
+   "n": 571,
+   "p10": 23.0,
+   "p50": 40.0,
+   "p90": 85.0
+  },
+  "Ealing|Entire home/apt": {
+   "n": 712,
+   "p10": 65.0,
+   "p50": 124.0,
+   "p90": 270.4999999999999
+  },
+  "Ealing|Private room": {
+   "n": 822,
+   "p10": 25.0,
+   "p50": 45.0,
+   "p90": 95.0
+  },
+  "Enfield|Entire home/apt": {
+   "n": 255,
+   "p10": 57.400000000000006,
+   "p50": 120.0,
+   "p90": 238.39999999999998
+  },
+  "Enfield|Private room": {
+   "n": 341,
+   "p10": 25.0,
+   "p50": 45.0,
+   "p90": 99.0
+  },
+  "Greenwich|Entire home/apt": {
+   "n": 777,
+   "p10": 68.60000000000001,
+   "p50": 134.0,
+   "p90": 250.0
+  },
+  "Greenwich|Private room": {
+   "n": 707,
+   "p10": 24.0,
+   "p50": 45.0,
+   "p90": 96.79999999999995
+  },
+  "Hackney|Entire home/apt": {
+   "n": 3031,
+   "p10": 70.0,
+   "p50": 120.0,
+   "p90": 264.0
+  },
+  "Hackney|Private room": {
+   "n": 2082,
+   "p10": 25.0,
+   "p50": 43.0,
+   "p90": 90.0
+  },
+  "Hammersmith and Fulham|Entire home/apt": {
+   "n": 1924,
+   "p10": 78.30000000000001,
+   "p50": 150.0,
+   "p90": 346.0
+  },
+  "Hammersmith and Fulham|Private room": {
+   "n": 987,
+   "p10": 30.0,
+   "p50": 55.0,
+   "p90": 125.0
+  },
+  "Haringey|Entire home/apt": {
+   "n": 947,
+   "p10": 57.60000000000001,
+   "p50": 109.0,
+   "p90": 250.0
+  },
+  "Haringey|Private room": {
+   "n": 889,
+   "p10": 23.0,
+   "p50": 40.0,
+   "p90": 80.0
+  },
+  "Harrow|Entire home/apt": {
+   "n": 206,
+   "p10": 62.0,
+   "p50": 115.0,
+   "p90": 225.0
+  },
+  "Harrow|Private room": {
+   "n": 230,
+   "p10": 24.0,
+   "p50": 45.0,
+   "p90": 90.0
+  },
+  "Havering|Entire home/apt": {
+   "n": 146,
+   "p10": 64.0,
+   "p50": 139.5,
+   "p90": 264.5
+  },
+  "Havering|Private room": {
+   "n": 180,
+   "p10": 25.900000000000002,
+   "p50": 46.0,
+   "p90": 83.1
+  },
+  "Hillingdon|Entire home/apt": {
+   "n": 299,
+   "p10": 62.8,
+   "p50": 126.0,
+   "p90": 229.99999999999994
+  },
+  "Hillingdon|Private room": {
+   "n": 408,
+   "p10": 28.700000000000003,
+   "p50": 50.0,
+   "p90": 96.20000000000005
+  },
+  "Hounslow|Entire home/apt": {
+   "n": 546,
+   "p10": 65.0,
+   "p50": 136.0,
+   "p90": 280.0
+  },
+  "Hounslow|Private room": {
+   "n": 489,
+   "p10": 27.0,
+   "p50": 45.0,
+   "p90": 95.0
+  },
+  "Islington|Entire home/apt": {
+   "n": 2365,
+   "p10": 73.0,
+   "p50": 129.0,
+   "p90": 278.5999999999999
+  },
+  "Islington|Private room": {
+   "n": 1361,
+   "p10": 30.0,
+   "p50": 51.0,
+   "p90": 110.0
+  },
+  "Kensington and Chelsea|Entire home/apt": {
+   "n": 3546,
+   "p10": 99.0,
+   "p50": 200.0,
+   "p90": 510.0
+  },
+  "Kensington and Chelsea|Hotel room": {
+   "n": 74,
+   "p10": 198.6,
+   "p50": 255.0,
+   "p90": 452.1
+  },
+  "Kensington and Chelsea|Private room": {
+   "n": 800,
+   "p10": 40.0,
+   "p50": 80.0,
+   "p90": 200.0
+  },
+  "Kingston upon Thames|Entire home/apt": {
+   "n": 312,
+   "p10": 60.0,
+   "p50": 110.0,
+   "p90": 290.0
+  },
+  "Kingston upon Thames|Private room": {
+   "n": 263,
+   "p10": 29.0,
+   "p50": 45.0,
+   "p90": 85.0
+  },
+  "Lambeth|Entire home/apt": {
+   "n": 2097,
+   "p10": 69.60000000000002,
+   "p50": 125.0,
+   "p90": 290.0
+  },
+  "Lambeth|Private room": {
+   "n": 1579,
+   "p10": 29.0,
+   "p50": 49.0,
+   "p90": 95.0
+  },
+  "Lewisham|Entire home/apt": {
+   "n": 1012,
+   "p10": 55.0,
+   "p50": 100.0,
+   "p90": 200.0
+  },
+  "Lewisham|Private room": {
+   "n": 965,
+   "p10": 23.0,
+   "p50": 40.0,
+   "p90": 89.0
+  },
+  "Lewisham|Shared room": {
+   "n": 30,
+   "p10": 26.0,
+   "p50": 35.0,
+   "p90": 55.50000000000001
+  },
+  "Merton|Entire home/apt": {
+   "n": 551,
+   "p10": 65.0,
+   "p50": 149.0,
+   "p90": 350.0
+  },
+  "Merton|Private room": {
+   "n": 536,
+   "p10": 28.0,
+   "p50": 50.0,
+   "p90": 100.0
+  },
+  "Newham|Entire home/apt": {
+   "n": 755,
+   "p10": 67.4,
+   "p50": 150.0,
+   "p90": 310.0
+  },
+  "Newham|Private room": {
+   "n": 898,
+   "p10": 25.0,
+   "p50": 45.0,
+   "p90": 132.9000000000002
+  },
+  "Redbridge|Entire home/apt": {
+   "n": 263,
+   "p10": 55.60000000000001,
+   "p50": 120.0,
+   "p90": 299.00000000000006
+  },
+  "Redbridge|Private room": {
+   "n": 394,
+   "p10": 25.0,
+   "p50": 45.0,
+   "p90": 100.0
+  },
+  "Richmond upon Thames|Entire home/apt": {
+   "n": 670,
+   "p10": 75.0,
+   "p50": 142.0,
+   "p90": 323.20000000000005
+  },
+  "Richmond upon Thames|Private room": {
+   "n": 419,
+   "p10": 32.0,
+   "p50": 58.0,
+   "p90": 125.0
+  },
+  "Southwark|Entire home/apt": {
+   "n": 2141,
+   "p10": 72.0,
+   "p50": 131.0,
+   "p90": 291.0
+  },
+  "Southwark|Private room": {
+   "n": 1607,
+   "p10": 28.0,
+   "p50": 50.0,
+   "p90": 100.0
+  },
+  "Sutton|Entire home/apt": {
+   "n": 135,
+   "p10": 55.0,
+   "p50": 104.0,
+   "p90": 194.0000000000001
+  },
+  "Sutton|Private room": {
+   "n": 148,
+   "p10": 25.0,
+   "p50": 40.0,
+   "p90": 76.50000000000006
+  },
+  "Tower Hamlets|Entire home/apt": {
+   "n": 2946,
+   "p10": 70.0,
+   "p50": 135.5,
+   "p90": 300.0
+  },
+  "Tower Hamlets|Private room": {
+   "n": 2587,
+   "p10": 26.0,
+   "p50": 48.0,
+   "p90": 92.0
+  },
+  "Tower Hamlets|Shared room": {
+   "n": 31,
+   "p10": 19.0,
+   "p50": 35.0,
+   "p90": 65.0
+  },
+  "Waltham Forest|Entire home/apt": {
+   "n": 700,
+   "p10": 54.900000000000006,
+   "p50": 105.0,
+   "p90": 202.10000000000002
+  },
+  "Waltham Forest|Private room": {
+   "n": 604,
+   "p10": 23.0,
+   "p50": 42.0,
+   "p90": 99.0
+  },
+  "Wandsworth|Entire home/apt": {
+   "n": 2057,
+   "p10": 75.0,
+   "p50": 145.0,
+   "p90": 338.4000000000001
+  },
+  "Wandsworth|Private room": {
+   "n": 1354,
+   "p10": 29.0,
+   "p50": 52.0,
+   "p90": 100.0
+  },
+  "Westminster|Entire home/apt": {
+   "n": 5556,
+   "p10": 95.0,
+   "p50": 208.0,
+   "p90": 523.0
+  },
+  "Westminster|Hotel room": {
+   "n": 44,
+   "p10": 102.6,
+   "p50": 329.5,
+   "p90": 693.4000000000001
+  },
+  "Westminster|Private room": {
+   "n": 1850,
+   "p10": 40.0,
+   "p50": 80.0,
+   "p90": 248.0
+  },
+  "Westminster|Shared room": {
+   "n": 47,
+   "p10": 26.6,
+   "p50": 30.0,
+   "p90": 61.99999999999996
+  },
+  "Barking and Dagenham|*": {
+   "n": 432,
+   "p10": 27.0,
+   "p50": 60.0,
+   "p90": 195.90000000000003
+  },
+  "Barnet|*": {
+   "n": 1572,
+   "p10": 30.0,
+   "p50": 80.0,
+   "p90": 236.80000000000018
+  },
+  "Bexley|*": {
+   "n": 410,
+   "p10": 28.0,
+   "p50": 60.0,
+   "p90": 170.5000000000001
+  },
+  "Brent|*": {
+   "n": 1947,
+   "p10": 33.0,
+   "p50": 80.0,
+   "p90": 240.0
+  },
+  "Bromley|*": {
+   "n": 592,
+   "p10": 30.0,
+   "p50": 70.0,
+   "p90": 200.0
+  },
+  "Camden|*": {
+   "n": 4645,
+   "p10": 50.0,
+   "p50": 122.0,
+   "p90": 325.0
+  },
+  "City of London|*": {
+   "n": 421,
+   "p10": 88.0,
+   "p50": 196.0,
+   "p90": 500.0
+  },
+  "Croydon|*": {
+   "n": 1065,
+   "p10": 25.0,
+   "p50": 60.0,
+   "p90": 150.0
+  },
+  "Ealing|*": {
+   "n": 1546,
+   "p10": 30.0,
+   "p50": 70.0,
+   "p90": 210.5
+  },
+  "Enfield|*": {
+   "n": 616,
+   "p10": 30.0,
+   "p50": 65.0,
+   "p90": 188.0
+  },
+  "Greenwich|*": {
+   "n": 1492,
+   "p10": 30.0,
+   "p50": 80.0,
+   "p90": 200.0
+  },
+  "Hackney|*": {
+   "n": 5137,
+   "p10": 32.0,
+   "p50": 85.0,
+   "p90": 220.0
+  },
+  "Hammersmith and Fulham|*": {
+   "n": 2944,
+   "p10": 42.0,
+   "p50": 110.0,
+   "p90": 299.0
+  },
+  "Haringey|*": {
+   "n": 1848,
+   "p10": 27.0,
+   "p50": 70.0,
+   "p90": 195.0
+  },
+  "Harrow|*": {
+   "n": 443,
+   "p10": 30.0,
+   "p50": 75.0,
+   "p90": 180.0
+  },
+  "Havering|*": {
+   "n": 327,
+   "p10": 30.6,
+   "p50": 69.0,
+   "p90": 182.00000000000017
+  },
+  "Hillingdon|*": {
+   "n": 713,
+   "p10": 31.200000000000003,
+   "p50": 68.0,
+   "p90": 170.0
+  },
+  "Hounslow|*": {
+   "n": 1045,
+   "p10": 31.400000000000006,
+   "p50": 79.0,
+   "p90": 220.0
+  },
+  "Islington|*": {
+   "n": 3744,
+   "p10": 39.0,
+   "p50": 98.0,
+   "p90": 240.0
+  },
+  "Kensington and Chelsea|*": {
+   "n": 4446,
+   "p10": 70.0,
+   "p50": 180.0,
+   "p90": 473.5
+  },
+  "Kingston upon Thames|*": {
+   "n": 576,
+   "p10": 32.0,
+   "p50": 75.0,
+   "p90": 220.0
+  },
+  "Lambeth|*": {
+   "n": 3697,
+   "p10": 35.0,
+   "p50": 86.0,
+   "p90": 232.4000000000001
+  },
+  "Lewisham|*": {
+   "n": 2007,
+   "p10": 27.0,
+   "p50": 65.0,
+   "p90": 164.4000000000001
+  },
+  "Merton|*": {
+   "n": 1101,
+   "p10": 32.0,
+   "p50": 85.0,
+   "p90": 260.0
+  },
+  "Newham|*": {
+   "n": 1677,
+   "p10": 29.0,
+   "p50": 76.0,
+   "p90": 270.2000000000003
+  },
+  "Redbridge|*": {
+   "n": 667,
+   "p10": 28.0,
+   "p50": 62.0,
+   "p90": 199.0
+  },
+  "Richmond upon Thames|*": {
+   "n": 1094,
+   "p10": 40.0,
+   "p50": 100.0,
+   "p90": 275.0
+  },
+  "Southwark|*": {
+   "n": 3769,
+   "p10": 35.0,
+   "p50": 90.0,
+   "p90": 238.20000000000027
+  },
+  "Sutton|*": {
+   "n": 286,
+   "p10": 30.0,
+   "p50": 60.0,
+   "p90": 156.0
+  },
+  "Tower Hamlets|*": {
+   "n": 5570,
+   "p10": 32.0,
+   "p50": 85.0,
+   "p90": 241.10000000000036
+  },
+  "Waltham Forest|*": {
+   "n": 1317,
+   "p10": 27.599999999999994,
+   "p50": 70.0,
+   "p90": 180.0
+  },
+  "Wandsworth|*": {
+   "n": 3425,
+   "p10": 38.0,
+   "p50": 99.0,
+   "p90": 279.5999999999999
+  },
+  "Westminster|*": {
+   "n": 7497,
+   "p10": 63.0,
+   "p50": 172.0,
+   "p90": 499.0
+  },
+  "*|Entire home/apt": {
+   "n": 40458,
+   "p10": 70.0,
+   "p50": 145.0,
+   "p90": 353.0
+  },
+  "*|Hotel room": {
+   "n": 227,
+   "p10": 73.2,
+   "p50": 205.0,
+   "p90": 451.20000000000005
+  },
+  "*|Private room": {
+   "n": 26980,
+   "p10": 27.0,
+   "p50": 50.0,
+   "p90": 115.0
+  },
+  "*|Shared room": {
+   "n": 403,
+   "p10": 21.200000000000003,
+   "p50": 39.0,
+   "p90": 120.0
+  }
+ },
+ "propiedad_tipica": {
+  "Entire home/apt": "Entire rental unit",
+  "Hotel room": "Otros",
+  "Private room": "Private room in rental unit",
+  "Shared room": "Otros"
+ }
+}
